@@ -1,9 +1,9 @@
 <div align="center">
 
 # 💫 About Me:
-I have been a professional software engineer since 2003, and I've been a PHP full-stack web developer for over seven years. I'm experienced in Laravel, JavaScript, Vue.js, React.js, Bootstrap, Tailwind, MySQL, Redis, Git, and Docker.
-I always try to use Clean Code, OOP, and design patterns in my projects.
-I'm a one-man army in a startup project and a good team member in a team project.
+PHP full-stack web developer with 7+ years of experience. Using PHP with Laravel framework to develop the
+backend and Vue.js for the frontend. I’m familiar with Design patterns, SOLID principles, and TDD to write more
+readable and extendable code.
 
 </div>
 
